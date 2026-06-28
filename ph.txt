@@ -7,6 +7,10 @@ https://www.bagamanoc-catanduanes.gov.ph
 https://abra.gov.ph
 https://aurorazds.gov.ph
 https://ovr.bacoor.gov.ph
+https://v2.etrade.net.ph/
+https://phlconnect.ched.gov.ph/
+https://ched.gov.ph/
+https://www.portalloy.com.ph/
 https://www.ayungon.gov.ph
 https://tourism.alitagtag.gov.ph
 https://www.agdanganquezon.gov.ph
@@ -18,6 +22,7 @@ https://mail.agusandelnorte.gov.ph
 https://arremis-client.staging.bafe.gov.ph
 https://www.asingan.gov.ph
 https://mlg.bangsamoro.gov.ph
+http://opac.ascot.edu.ph/
 https://alfonso.gov.ph
 https://citizen-api.dev.apayao.gov.ph
 https://apo.gov.ph
