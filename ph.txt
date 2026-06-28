@@ -40,6 +40,7 @@ https://forms-training.apps.gov.ph
 https://stg.vims-sc.apps.gov.ph
 https://bagac.gov.ph
 https://moh.bangsamoro.gov.ph
+https://www.dbm.gov.ph/
 https://region1.dost.gov.ph
 https://mail.bacacaywater.gov.ph
 https://ebpls-adv.bacolodcity.gov.ph
@@ -51,6 +52,7 @@ https://cids.up.edu.ph/
 https://website-0ff3f560.angelescity.gov.ph
 https://repo.asti.gov.ph
 https://www.balungao.gov.ph
+https://engineering.galleon.ph/
 https://bessy.baliwag.gov.ph
 https://aloran.gov.ph
 https://stg.api.vims.apps.gov.ph
